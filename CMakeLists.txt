@@ -17,6 +17,7 @@ add_executable(clion_CV main.cpp)
 add_subdirectory(Demo_ch6)
 add_subdirectory(Demo_ch7)
 add_subdirectory(Demo_ch8)
+add_subdirectory(Demo_ch9)
 
 
 
