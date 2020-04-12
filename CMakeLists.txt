@@ -18,6 +18,8 @@ add_subdirectory(Demo_ch6)
 add_subdirectory(Demo_ch7)
 add_subdirectory(Demo_ch8)
 add_subdirectory(Demo_ch9)
+add_subdirectory(Demo_ch10)
+add_subdirectory(Demo_ch11)
 
 
 
